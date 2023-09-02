@@ -4,4 +4,4 @@ The NN_models.ipynb contains all the NN models construction and training.
 
 The layers contains some necessary mechanism layers for Autoformer.
 
-THe result_analysis.ipynb contains the metrics evaluation and plotting.
+The result_analysis.ipynb contains the metrics evaluation and plotting.
